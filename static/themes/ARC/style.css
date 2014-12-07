@@ -42,5 +42,6 @@ table tr th.edit-delete-col {
 /* For the Mission Profile page */
 /* @ToDo: Responsive */
 .span12 {
-  width: 770px;
+  max-width: 770px;
+  min-width: 240px;
 }
